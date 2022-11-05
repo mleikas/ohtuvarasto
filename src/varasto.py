@@ -1,3 +1,4 @@
+# testi
 class Varasto:
     def __init__(self, tilavuus, alku_saldo = 0):
         if tilavuus > 0.0:
