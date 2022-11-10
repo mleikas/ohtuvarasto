@@ -1,4 +1,4 @@
-class Varasto:
+class Varasto: 
     def __init__(self, tilavuus, alku_saldo = 0):
         self.onko_yli_nolla(tilavuus)
 
